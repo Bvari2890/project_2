@@ -17,7 +17,7 @@ APIs: Yelp...
 
 
 ## Deployed URL:
-https://dashboard.heroku.com/apps/blooming-brook-56993
+https://whats-going-on-heroku.herokuapp.com/
 
 ## GitHub Repository
 https://github.com/slongy7/project_2
